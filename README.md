@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## API Guidelines
+1. Download the repository from git.
+2. Install npm in your system.
+3. Install node in your system.
+4. Go to API folder (CREDIT-CARD-APIS).
+5. Run the api by using command "npm start"
+6. Access the API urls by "http://localhost:8080/api/creditcards"
+
+## Web Application Guidelines 
+1. Go to web app folder (CREDIT-CARD-APP).
+2. Run the application by using command "npm start"
+
 ## Available Scripts
 
 In the project directory, you can run:
